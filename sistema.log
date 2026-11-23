@@ -1,0 +1,319 @@
+2026-11-21 21:07:26,882 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:07:26,882 | INFO | Servicio registrado: S-1
+2026-11-21 21:07:26,883 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:07:26,883 | INFO | Servicio registrado: S-1
+2026-11-21 21:07:26,883 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:07:26,883 | INFO | Servicio registrado: S-1
+2026-11-21 21:07:26,883 | ERROR | Ya existe un cliente con identificación CC-12345.
+2026-11-21 21:07:26,883 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:07:26,883 | INFO | Servicio registrado: S-1
+2026-11-21 21:07:26,884 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:07:26,884 | INFO | Servicio registrado: S-1
+2026-11-21 21:07:26,884 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:07:26,884 | INFO | Servicio registrado: S-1
+2026-11-21 21:07:26,884 | INFO | Reserva creada: R-0001
+2026-11-21 21:07:41,203 | INFO | Cliente registrado: CC-1001
+2026-11-21 21:07:41,203 | INFO | Registrar cliente válido: operación exitosa
+2026-11-21 21:07:41,203 | ERROR | Registrar cliente sin nombre: Todos los datos del cliente son obligatorios.
+2026-11-21 21:07:41,203 | ERROR | Registrar cliente con correo inválido: El formato del correo electrónico no es válido.
+2026-11-21 21:07:41,203 | ERROR | Ya existe un cliente con identificación CC-1001.
+2026-11-21 21:07:41,203 | ERROR | Registrar cliente duplicado: Ya existe un cliente con identificación CC-1001.
+2026-11-21 21:07:41,203 | INFO | Cliente registrado: CC-1002
+2026-11-21 21:07:41,203 | INFO | Registrar segundo cliente válido: operación exitosa
+2026-11-21 21:07:41,203 | INFO | Servicio registrado: S-01
+2026-11-21 21:07:41,203 | INFO | Registrar servicio de reserva de sala: operación exitosa
+2026-11-21 21:07:41,204 | INFO | Servicio registrado: E-01
+2026-11-21 21:07:41,204 | INFO | Registrar servicio de alquiler de equipos: operación exitosa
+2026-11-21 21:07:41,204 | INFO | Servicio registrado: A-01
+2026-11-21 21:07:41,204 | INFO | Registrar servicio de asesoría: operación exitosa
+2026-11-21 21:07:41,204 | ERROR | Registrar servicio con precio negativo: El precio debe ser un valor finito no negativo.
+2026-11-21 21:07:41,204 | INFO | Reserva creada: R-0001
+2026-11-21 21:07:41,204 | INFO | Crear una reserva válida: operación exitosa
+2026-11-21 21:07:41,204 | ERROR | No se encontró el servicio NO-EXISTE.
+2026-11-21 21:07:41,204 | ERROR | Reservar un servicio inexistente: No se encontró el servicio NO-EXISTE.
+2026-11-21 21:07:41,204 | ERROR | No se pudo crear la reserva: La duración debe ser finita y mayor que cero.
+2026-11-21 21:07:41,204 | ERROR | Crear reserva con duración negativa: La duración debe ser finita y mayor que cero.
+2026-11-21 21:07:41,204 | INFO | Confirmar una reserva: operación exitosa
+2026-11-21 21:07:41,204 | INFO | Procesar una reserva confirmada: operación exitosa
+2026-11-21 21:07:41,204 | ERROR | Cancelar una reserva procesada: No se puede cancelar una reserva procesada o ya cancelada.
+2026-11-21 21:08:16,998 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:08:16,998 | INFO | Servicio registrado: S-1
+2026-11-21 21:08:16,999 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:08:16,999 | INFO | Servicio registrado: S-1
+2026-11-21 21:08:16,999 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:08:16,999 | INFO | Servicio registrado: S-1
+2026-11-21 21:08:16,999 | ERROR | Ya existe un cliente con identificación CC-12345.
+2026-11-21 21:08:16,999 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:08:16,999 | INFO | Servicio registrado: S-1
+2026-11-21 21:08:16,999 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:08:16,999 | INFO | Servicio registrado: S-1
+2026-11-21 21:08:16,999 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:08:16,999 | INFO | Servicio registrado: S-1
+2026-11-21 21:08:16,999 | INFO | Reserva creada: R-0001
+2026-11-21 21:08:16,999 | INFO | Reserva confirmada: R-0001
+2026-11-21 21:08:16,999 | INFO | Reserva procesada: R-0001
+2026-11-21 21:08:17,251 | INFO | Cliente registrado: CC-1001
+2026-11-21 21:08:17,251 | INFO | Registrar cliente válido: operación exitosa
+2026-11-21 21:08:17,252 | ERROR | Registrar cliente sin nombre: Todos los datos del cliente son obligatorios.
+2026-11-21 21:08:17,252 | ERROR | Registrar cliente con correo inválido: El formato del correo electrónico no es válido.
+2026-11-21 21:08:17,252 | ERROR | Ya existe un cliente con identificación CC-1001.
+2026-11-21 21:08:17,252 | ERROR | Registrar cliente duplicado: Ya existe un cliente con identificación CC-1001.
+2026-11-21 21:08:17,252 | INFO | Cliente registrado: CC-1002
+2026-11-21 21:08:17,252 | INFO | Registrar segundo cliente válido: operación exitosa
+2026-11-21 21:08:17,252 | INFO | Servicio registrado: S-01
+2026-11-21 21:08:17,252 | INFO | Registrar servicio de reserva de sala: operación exitosa
+2026-11-21 21:08:17,252 | INFO | Servicio registrado: E-01
+2026-11-21 21:08:17,252 | INFO | Registrar servicio de alquiler de equipos: operación exitosa
+2026-11-21 21:08:17,252 | INFO | Servicio registrado: A-01
+2026-11-21 21:08:17,252 | INFO | Registrar servicio de asesoría: operación exitosa
+2026-11-21 21:08:17,252 | ERROR | Registrar servicio con precio negativo: El precio debe ser un valor finito no negativo.
+2026-11-21 21:08:17,252 | INFO | Reserva creada: R-0001
+2026-11-21 21:08:17,252 | INFO | Crear una reserva válida: operación exitosa
+2026-11-21 21:08:17,252 | ERROR | No se encontró el servicio NO-EXISTE.
+2026-11-21 21:08:17,252 | ERROR | Reservar un servicio inexistente: No se encontró el servicio NO-EXISTE.
+2026-11-21 21:08:17,252 | ERROR | No se pudo crear la reserva: La duración debe ser finita y mayor que cero.
+2026-11-21 21:08:17,252 | ERROR | Crear reserva con duración negativa: La duración debe ser finita y mayor que cero.
+2026-11-21 21:08:17,252 | INFO | Reserva confirmada: R-0001
+2026-11-21 21:08:17,252 | INFO | Confirmar una reserva: operación exitosa
+2026-11-21 21:08:17,252 | INFO | Reserva procesada: R-0001
+2026-11-21 21:08:17,252 | INFO | Procesar una reserva confirmada: operación exitosa
+2026-11-21 21:08:17,252 | ERROR | Cancelar una reserva procesada: No se puede cancelar una reserva procesada o ya cancelada.
+2026-11-21 21:24:16,072 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:24:16,072 | INFO | Servicio registrado: S-1
+2026-11-21 21:24:16,072 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:24:16,072 | INFO | Servicio registrado: S-1
+2026-11-21 21:24:16,072 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:24:16,072 | INFO | Servicio registrado: S-1
+2026-11-21 21:24:16,072 | ERROR | Ya existe un cliente con identificación CC-12345.
+2026-11-21 21:24:16,072 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:24:16,072 | INFO | Servicio registrado: S-1
+2026-11-21 21:24:16,073 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:24:16,073 | INFO | Servicio registrado: S-1
+2026-11-21 21:24:16,073 | INFO | Cliente registrado: CC-12345
+2026-11-21 21:24:16,073 | INFO | Servicio registrado: S-1
+2026-11-21 21:24:16,073 | INFO | Reserva creada: R-0001
+2026-11-21 21:24:16,073 | INFO | Reserva confirmada: R-0001
+2026-11-21 21:24:16,073 | INFO | Reserva procesada: R-0001
+2026-11-21 21:28:24,794 | INFO | Cliente registrado: 1056410256
+2026-11-21 21:28:43,859 | INFO | Servicio registrado: 1010
+2026-11-21 21:28:56,656 | INFO | Cliente registrado: CC-1001
+2026-11-21 21:28:56,656 | INFO | Registrar cliente válido: operación exitosa
+2026-11-21 21:28:56,656 | ERROR | Registrar cliente sin nombre: Todos los datos del cliente son obligatorios.
+2026-11-21 21:28:56,656 | ERROR | Registrar cliente con correo inválido: El formato del correo electrónico no es válido.
+2026-11-21 21:28:56,656 | ERROR | Ya existe un cliente con identificación CC-1001.
+2026-11-21 21:28:56,656 | ERROR | Registrar cliente duplicado: Ya existe un cliente con identificación CC-1001.
+2026-11-21 21:28:56,656 | INFO | Cliente registrado: CC-1002
+2026-11-21 21:28:56,657 | INFO | Registrar segundo cliente válido: operación exitosa
+2026-11-21 21:28:56,657 | INFO | Servicio registrado: S-01
+2026-11-21 21:28:56,657 | INFO | Registrar servicio de reserva de sala: operación exitosa
+2026-11-21 21:28:56,657 | INFO | Servicio registrado: E-01
+2026-11-21 21:28:56,657 | INFO | Registrar servicio de alquiler de equipos: operación exitosa
+2026-11-21 21:28:56,657 | INFO | Servicio registrado: A-01
+2026-11-21 21:28:56,657 | INFO | Registrar servicio de asesoría: operación exitosa
+2026-11-21 21:28:56,657 | ERROR | Registrar servicio con precio negativo: El precio debe ser un valor finito no negativo.
+2026-11-21 21:28:56,657 | INFO | Reserva creada: R-0001
+2026-11-21 21:28:56,657 | INFO | Crear una reserva válida: operación exitosa
+2026-11-21 21:28:56,657 | ERROR | No se encontró el servicio NO-EXISTE.
+2026-11-21 21:28:56,657 | ERROR | Reservar un servicio inexistente: No se encontró el servicio NO-EXISTE.
+2026-11-21 21:28:56,657 | ERROR | No se pudo crear la reserva: La duración debe ser finita y mayor que cero.
+2026-11-21 21:28:56,657 | ERROR | Crear reserva con duración negativa: La duración debe ser finita y mayor que cero.
+2026-11-21 21:28:56,657 | INFO | Reserva confirmada: R-0001
+2026-11-21 21:28:56,657 | INFO | Confirmar una reserva: operación exitosa
+2026-11-21 21:28:56,658 | INFO | Reserva procesada: R-0001
+2026-11-21 21:28:56,658 | INFO | Procesar una reserva confirmada: operación exitosa
+2026-11-21 21:28:56,658 | ERROR | Cancelar una reserva procesada: No se puede cancelar una reserva procesada o ya cancelada.
+2026-11-22 20:25:34,708 | INFO | Cierre solicitado desde la interfaz grafica
+2026-11-22 20:25:37,393 | INFO | Cierre solicitado desde la interfaz grafica
+2026-11-22 20:25:38,687 | INFO | Cierre solicitado desde la interfaz grafica
+2026-11-22 20:27:39,057 | INFO | Cierre solicitado desde la interfaz grafica
+2026-11-22 20:35:48,926 | INFO | Servicio registrado: S-01
+2026-11-22 20:35:48,927 | INFO | Servicio registrado: E-01
+2026-11-22 20:35:48,927 | INFO | Servicio registrado: A-01
+2026-11-22 20:35:48,928 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:35:48,928 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:35:48,929 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:35:48,930 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:35:48,930 | INFO | Servicio registrado: S-1
+2026-11-22 20:35:48,931 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:35:48,932 | INFO | Servicio registrado: S-1
+2026-11-22 20:35:48,933 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:35:48,933 | INFO | Servicio registrado: S-1
+2026-11-22 20:35:48,934 | ERROR | Ya existe un cliente con identificación CC-12345.
+2026-11-22 20:35:48,934 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:35:48,935 | INFO | Servicio registrado: S-1
+2026-11-22 20:35:48,935 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:35:48,936 | INFO | Servicio registrado: S-1
+2026-11-22 20:35:48,936 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:35:48,937 | INFO | Servicio registrado: S-1
+2026-11-22 20:35:48,938 | INFO | Reserva creada: R-0001
+2026-11-22 20:35:48,938 | INFO | Reserva confirmada: R-0001
+2026-11-22 20:35:48,939 | INFO | Reserva procesada: R-0001
+2026-11-22 20:36:01,784 | ERROR | prueba de fallback
+2026-11-22 20:36:01,785 | INFO | Servicio registrado: S-01
+2026-11-22 20:36:01,786 | INFO | Servicio registrado: E-01
+2026-11-22 20:36:01,787 | INFO | Servicio registrado: A-01
+2026-11-22 20:36:01,787 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:36:01,788 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:36:01,788 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:36:01,789 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:01,789 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:01,790 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:01,790 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:01,790 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:01,791 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:01,791 | ERROR | Ya existe un cliente con identificación CC-12345.
+2026-11-22 20:36:01,791 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:01,792 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:01,792 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:01,793 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:01,793 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:01,793 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:01,794 | INFO | Reserva creada: R-0001
+2026-11-22 20:36:01,794 | INFO | Reserva confirmada: R-0001
+2026-11-22 20:36:01,794 | INFO | Reserva procesada: R-0001
+2026-11-22 20:36:23,992 | ERROR | prueba de fallback
+2026-11-22 20:36:23,994 | INFO | Servicio registrado: S-01
+2026-11-22 20:36:23,994 | INFO | Servicio registrado: E-01
+2026-11-22 20:36:23,994 | INFO | Servicio registrado: A-01
+2026-11-22 20:36:23,994 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:36:23,994 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:36:23,994 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:36:23,995 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:23,995 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:23,995 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:23,995 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:23,995 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:23,995 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:23,995 | ERROR | Ya existe un cliente con identificación CC-12345.
+2026-11-22 20:36:23,995 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:23,995 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:23,995 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:23,995 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:23,996 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:23,996 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:23,996 | INFO | Reserva creada: R-0001
+2026-11-22 20:36:23,996 | INFO | Reserva confirmada: R-0001
+2026-11-22 20:36:23,996 | INFO | Reserva procesada: R-0001
+2026-11-22 20:36:52,469 | ERROR | prueba de fallback
+2026-11-22 20:36:52,471 | INFO | Servicio registrado: S-01
+2026-11-22 20:36:52,471 | INFO | Servicio registrado: E-01
+2026-11-22 20:36:52,471 | INFO | Servicio registrado: A-01
+2026-11-22 20:36:52,471 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:36:52,471 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:36:52,471 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:36:52,472 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:52,472 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:52,472 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:52,472 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:52,472 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:52,472 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:52,472 | ERROR | Ya existe un cliente con identificación CC-12345.
+2026-11-22 20:36:52,472 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:52,472 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:52,472 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:52,472 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:52,472 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:36:52,472 | INFO | Servicio registrado: S-1
+2026-11-22 20:36:52,472 | INFO | Reserva creada: R-0001
+2026-11-22 20:36:52,472 | INFO | Reserva confirmada: R-0001
+2026-11-22 20:36:52,472 | INFO | Reserva procesada: R-0001
+2026-11-22 20:39:20,187 | ERROR | prueba de fallback
+2026-11-22 20:39:20,188 | INFO | Servicio registrado: S-01
+2026-11-22 20:39:20,189 | INFO | Servicio registrado: E-01
+2026-11-22 20:39:20,189 | INFO | Servicio registrado: A-01
+2026-11-22 20:39:20,189 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:39:20,189 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:39:20,190 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:39:20,190 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:39:20,190 | INFO | Servicio registrado: S-1
+2026-11-22 20:39:20,190 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:39:20,190 | INFO | Servicio registrado: S-1
+2026-11-22 20:39:20,190 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:39:20,190 | INFO | Servicio registrado: S-1
+2026-11-22 20:39:20,190 | ERROR | Ya existe un cliente con identificación CC-12345.
+2026-11-22 20:39:20,190 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:39:20,190 | INFO | Servicio registrado: S-1
+2026-11-22 20:39:20,191 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:39:20,191 | INFO | Servicio registrado: S-1
+2026-11-22 20:39:20,191 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:39:20,191 | INFO | Servicio registrado: S-1
+2026-11-22 20:39:20,191 | INFO | Reserva creada: R-0001
+2026-11-22 20:39:20,191 | INFO | Reserva confirmada: R-0001
+2026-11-22 20:39:20,191 | INFO | Reserva procesada: R-0001
+2026-11-22 20:39:48,470 | ERROR | prueba de fallback
+2026-11-22 20:39:48,472 | INFO | Servicio registrado: S-01
+2026-11-22 20:39:48,472 | INFO | Servicio registrado: E-01
+2026-11-22 20:39:48,472 | INFO | Servicio registrado: A-01
+2026-11-22 20:39:48,472 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:39:48,472 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:39:48,472 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:39:48,472 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:39:48,472 | INFO | Servicio registrado: S-1
+2026-11-22 20:39:48,472 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:39:48,472 | INFO | Servicio registrado: S-1
+2026-11-22 20:39:48,473 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:39:48,473 | INFO | Servicio registrado: S-1
+2026-11-22 20:39:48,473 | ERROR | Ya existe un cliente con identificación CC-12345.
+2026-11-22 20:39:48,473 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:39:48,473 | INFO | Servicio registrado: S-1
+2026-11-22 20:39:48,473 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:39:48,473 | INFO | Servicio registrado: S-1
+2026-11-22 20:39:48,473 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:39:48,473 | INFO | Servicio registrado: S-1
+2026-11-22 20:39:48,473 | INFO | Reserva creada: R-0001
+2026-11-22 20:39:48,473 | INFO | Reserva confirmada: R-0001
+2026-11-22 20:39:48,473 | INFO | Reserva procesada: R-0001
+2026-11-22 20:42:11,584 | ERROR | prueba de fallback
+2026-11-22 20:42:11,586 | INFO | Servicio registrado: S-01
+2026-11-22 20:42:11,586 | INFO | Servicio registrado: E-01
+2026-11-22 20:42:11,586 | INFO | Servicio registrado: A-01
+2026-11-22 20:42:11,586 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:42:11,586 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:42:11,586 | ERROR | No se encontró el cliente CC-1001.
+2026-11-22 20:42:11,586 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:42:11,586 | INFO | Servicio registrado: S-1
+2026-11-22 20:42:11,586 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:42:11,586 | INFO | Servicio registrado: S-1
+2026-11-22 20:42:11,586 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:42:11,586 | INFO | Servicio registrado: S-1
+2026-11-22 20:42:11,586 | ERROR | Ya existe un cliente con identificación CC-12345.
+2026-11-22 20:42:11,587 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:42:11,587 | INFO | Servicio registrado: S-1
+2026-11-22 20:42:11,587 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:42:11,587 | INFO | Servicio registrado: S-1
+2026-11-22 20:42:11,587 | INFO | Cliente registrado: CC-12345
+2026-11-22 20:42:11,587 | INFO | Servicio registrado: S-1
+2026-11-22 20:42:11,587 | INFO | Reserva creada: R-0001
+2026-11-22 20:42:11,587 | INFO | Reserva confirmada: R-0001
+2026-11-22 20:42:11,587 | INFO | Reserva procesada: R-0001
+2026-11-22 20:43:09,666 | INFO | Cierre solicitado desde la interfaz grafica
+2026-11-22 20:43:24,380 | ERROR | El formato del correo electrónico no es válido.
+2026-11-22 20:43:41,448 | INFO | Cliente registrado: 1056410256
+2026-11-22 20:44:20,089 | INFO | Servicio registrado: 1100
+2026-11-22 20:44:32,895 | INFO | Reserva creada: R-0001
+2026-11-22 20:44:41,810 | INFO | Cliente registrado: CC-1001
+2026-11-22 20:44:41,810 | INFO | Registrar cliente válido: operación exitosa
+2026-11-22 20:44:41,811 | ERROR | Registrar cliente sin nombre: Todos los datos del cliente son obligatorios.
+2026-11-22 20:44:41,811 | ERROR | Registrar cliente con correo inválido: El formato del correo electrónico no es válido.
+2026-11-22 20:44:41,811 | ERROR | Ya existe un cliente con identificación CC-1001.
+2026-11-22 20:44:41,812 | ERROR | Registrar cliente duplicado: Ya existe un cliente con identificación CC-1001.
+2026-11-22 20:44:41,812 | INFO | Cliente registrado: CC-1002
+2026-11-22 20:44:41,812 | INFO | Registrar segundo cliente válido: operación exitosa
+2026-11-22 20:44:41,813 | INFO | Servicio registrado: S-01
+2026-11-22 20:44:41,813 | INFO | Registrar servicio de reserva de sala: operación exitosa
+2026-11-22 20:44:41,813 | INFO | Servicio registrado: E-01
+2026-11-22 20:44:41,813 | INFO | Registrar servicio de alquiler de equipos: operación exitosa
+2026-11-22 20:44:41,813 | INFO | Servicio registrado: A-01
+2026-11-22 20:44:41,813 | INFO | Registrar servicio de asesoría: operación exitosa
+2026-11-22 20:44:41,814 | ERROR | Registrar servicio con precio negativo: El precio debe ser un valor finito no negativo.
+2026-11-22 20:44:41,814 | INFO | Reserva creada: R-0002
+2026-11-22 20:44:41,814 | INFO | Crear una reserva válida: operación exitosa
+2026-11-22 20:44:41,814 | ERROR | No se encontró el servicio NO-EXISTE.
+2026-11-22 20:44:41,814 | ERROR | Reservar un servicio inexistente: No se encontró el servicio NO-EXISTE.
+2026-11-22 20:44:41,815 | ERROR | No se pudo crear la reserva: La duración debe ser finita y mayor que cero.
+2026-11-22 20:44:41,815 | ERROR | Crear reserva con duración negativa: La duración debe ser finita y mayor que cero.
+2026-11-22 20:44:41,815 | INFO | Reserva confirmada: R-0002
+2026-11-22 20:44:41,815 | INFO | Confirmar una reserva: operación exitosa
+2026-11-22 20:44:41,815 | INFO | Reserva procesada: R-0002
+2026-11-22 20:44:41,815 | INFO | Procesar una reserva confirmada: operación exitosa
+2026-11-22 20:44:41,815 | ERROR | Cancelar una reserva procesada: No se puede cancelar una reserva procesada o ya cancelada.

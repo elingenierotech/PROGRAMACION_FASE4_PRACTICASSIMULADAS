@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+sistema.log
+.venv/
+venv/
