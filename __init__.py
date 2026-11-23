@@ -1,1 +1,1 @@
-"""Pruebas automatizadas del sistema."""
+"""Utilidades compartidas de la aplicación."""
